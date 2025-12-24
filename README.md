@@ -1,5 +1,3 @@
-# discord-minecraft-server-bot
-
 # Discord Minecraft Server Bot
 
 A Discord bot that runs **on the same machine** as a Minecraft server and allows authorized users to start, stop, and check the server status via Discord commands.

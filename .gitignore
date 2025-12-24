@@ -1,6 +1,9 @@
 # Node modules
 node_modules/
 
+# Test Server
+test-server/
+
 # Environment variables
 .env
 
